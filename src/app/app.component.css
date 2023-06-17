@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+}
+
+.head{
+    display: block;
+    font-size: 23px;
+    justify-content: space-between;
+}
+
+.carouselInicio{
+    display: none;
+    height: 100%;
+    object-fit: cover;
+
+}
+.Titulo{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+.pInicio{
+    margin: 50px;
+    text-align: justify;
+    justify-content: center;
+}
+
+.enlaces {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
